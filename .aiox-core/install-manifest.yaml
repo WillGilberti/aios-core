@@ -8,7 +8,7 @@
 # - File types for categorization
 #
 version: 5.0.3
-generated_at: "2026-03-16T22:02:08.617Z"
+generated_at: "2026-03-16T22:10:31.812Z"
 generator: scripts/generate-install-manifest.js
 file_count: 1090
 files:
@@ -1221,7 +1221,7 @@ files:
     type: data
     size: 9575
   - path: data/entity-registry.yaml
-    hash: sha256:d1514b1c2799da58298ca03f7f98af529f1927bd8c5833f5c3ed3f04f3c787af
+    hash: sha256:c07a5137a89c51984172bb6ef0a9a5e8244d16a997e19ec2609db90df292ec1f
     type: data
     size: 522782
   - path: data/learned-patterns.yaml
@@ -3441,9 +3441,9 @@ files:
     type: infrastructure
     size: 4172
   - path: infrastructure/tests/worktree-manager.test.js
-    hash: sha256:29db5ba576c708c7de79b0623ebfc7881158cbec222340c596947d8dd8a7309e
+    hash: sha256:455cc094edce90db8191ab2ca76cb3d1b846d35679ccb6011b92f8f0cd336790
     type: infrastructure
-    size: 21448
+    size: 21578
   - path: infrastructure/tools/cli/github-cli.yaml
     hash: sha256:222ca6016e9487d2da13bead0af5cee6099885ea438b359ff5fa5a73c7cd4820
     type: tool
